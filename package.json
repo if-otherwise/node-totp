@@ -1,0 +1,30 @@
+{
+  "name": "node-totp",
+  "version": "1.0.3",
+  "description": "TOTP For Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evolvedus/node-totp"
+  },
+  "keywords": [
+    "auth",
+    "2fa",
+    "mfa",
+    "token",
+    "key",
+    "base32",
+    "code",
+    "generator"
+  ],
+  "author": "MT <if-work@pm.me>",
+  "license": "MIT",
+  "homepage": "https://github.com/evolvedus/node-totp#readme",
+  "dependencies": {
+    "notp": "^2.0.3",
+    "thirty-two": "^1.0.2"
+  }
+}
