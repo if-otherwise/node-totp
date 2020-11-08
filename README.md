@@ -1,6 +1,8 @@
 # node-totp
 TOTP For Node.JS
 
+NPM: https://www.npmjs.com/package/node-totp
+
 Usage
 =====
 
